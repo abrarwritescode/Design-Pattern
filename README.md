@@ -1,1 +1,2 @@
-This repository contains code from my design pattern lab
+This repository contains code from my DESIGN PATTERN course
+
